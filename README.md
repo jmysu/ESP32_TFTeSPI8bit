@@ -6,7 +6,7 @@ ESP32 w/ 8bit-parallel interface test code, small modification from Bodmer's TFT
 <br><br>
 #### Add 4-wire touch
 <br>
-<img src="picture/4Wire_touch.png"/> 
+<img src="picture/4wire_touch.png"/> 
 
 ### References
   - [2.4" TFT LCD Shield](http://www.lcdwiki.com/2.4inch_Arduino_Display) Arduino LCD Shield
